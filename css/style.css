@@ -1,0 +1,143 @@
+
+#container{
+    background-color:white;
+    border: 8px solid rgb(55, 200, 202);
+    height: 100%;
+    width: 550px;
+    margin: 20px auto;
+    /* background-color: red; */
+}
+h2{
+    float: left;
+}
+
+#image{
+    float: left;
+    height: 20px;
+    padding-top: 21px;
+}
+
+#Top{
+    margin-left: 45%;
+}
+ #clear{
+     clear: left;
+ }
+ p {
+     text-align:center;
+ }
+ #date{
+     padding-top: 10px; 
+ }
+ #conf{
+     width: 400px;
+     height: 250px;
+     /* padding-left:20%;  */
+     /* display: inline-block; */
+     display:block;
+     margin-left: auto;
+     margin-right: auto;
+
+ }
+
+ .bird{
+     height: 15px;
+     width: 15px;
+     padding-top: 20px;
+     position: relative;
+     top:-15px;
+     left: 8px;
+     /* position:absolute;
+     top: -37%; */
+ }
+
+ #display{
+     display:flex;
+     direction: column;
+     width: 400px;
+     height: 100px;
+     margin-top: 15px;
+     /* display:block;
+     margin-left: auto;
+     margin-right: auto; */
+
+     padding-left:13%;
+     /* background-color: red; */
+ }
+
+.space{
+  padding-left: 20px;
+
+  /* vertical-align: top; */
+  /* display: inline-block; */
+  /* text-align: center; */
+  /* width: 120px; */
+}
+
+.photo{
+  width: 50px;
+  height:50px; 
+  padding-left: 12px;
+  display: inline-block; 
+  /* margin:20px;  */
+  /* display: block;
+  margin: 0 auto; */
+  /* background-color: red; */
+}
+#pic{
+display:flex;
+direction: column;
+padding-left:16%;
+text-align: center;
+width: 400px;
+margin-bottom: 20px;
+
+
+}
+
+h6{
+  text-align: center;
+  font-weight: 100px; 
+}
+/* .just{
+  text-align: justify;
+
+
+} */
+
+/* ul li img{
+width: 50px;
+height:50px;
+
+}
+
+ul li{
+   clear: right; 
+} */
+
+
+
+
+/* img {
+width: 100px;
+height: 100px;
+background-color: grey;
+} */ 
+.caption {
+display: block;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+position: relative;
+left: 5px; 
+/* text-align: center; */
+
+}
+.bird{
+text-align: center;
+}
+
+.capt{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
